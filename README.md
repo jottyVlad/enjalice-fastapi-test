@@ -7,7 +7,7 @@
 Сборка проекта происходит при помощи docker.
 
 ```
-git clone enjalice-fastapi-test
+git clone https://github.com/jottyVlad/enjalice-fastapi-test.git
 cd ./enjalice-fastapi-test
 docker-compose up
 ```
@@ -15,7 +15,7 @@ docker-compose up
 Для сборки на локальном компьютере можете использовать ngrok.
 
 ```
-git clone enjalice-fastapi-test
+git clone https://github.com/jottyVlad/enjalice-fastapi-test.git
 cd ./enjalice-fastapi-test
 docker-compose up
 ```
